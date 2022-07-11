@@ -1,0 +1,22 @@
+{
+  "name": "mir",
+  "title": "MIR",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "worlds/mir/cache%20cache.png",
+  "coreVersion": "9.238",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.13.2"
+}
