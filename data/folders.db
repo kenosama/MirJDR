@@ -1,0 +1,31 @@
+{"_id":"21OwRknF4Ey6C7YK","name":"Armures","type":"Item","parent":"PggyOleiWdMrgtwk","sorting":"a","sort":200000,"color":"#d28c14","flags":{}}
+{"_id":"3NXynQSJHIiefH1m","name":"Persos","type":"Item","parent":"Ah7ErDmok1SBTHg8","sorting":"a","sort":300000,"color":"#348d5b","flags":{}}
+{"_id":"65A5uKO75NE8BGx2","name":"_TABS","type":"Item","parent":"CZXfLHLtlb6DcTkY","sorting":"m","sort":-100000,"color":null,"flags":{}}
+{"_id":"90DTiqZuHZ7oDGI5","name":"Stigmates Temporaires","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#2a7584","flags":{}}
+{"name":"PNJ","type":"Item","parent":"PggyOleiWdMrgtwk","sorting":"a","sort":0,"color":"#500c4a","flags":{},"_id":"AdZ337JazMbr9wqn"}
+{"_id":"Ah7ErDmok1SBTHg8","name":"Compendium","type":"Item","parent":null,"sorting":"m","sort":500000,"color":"#17873e","flags":{}}
+{"name":"CQC","type":"Item","parent":"LIJcZRVdpEtEREHi","sorting":"a","sort":0,"color":"#7a0606","flags":{},"_id":"AvV2ImK04XFB0NIb"}
+{"name":"_PANELS","type":"Item","parent":"CZXfLHLtlb6DcTkY","sorting":"m","sort":0,"color":null,"flags":{},"_id":"CPUmldcbQSa0hZub"}
+{"_id":"CZXfLHLtlb6DcTkY","name":"_template PAS TOUCHE","type":"Item","parent":null,"sorting":"m","sort":400000,"color":"#ff0000","flags":{}}
+{"_id":"JrVuvYbjyExw2zAh","name":"Competence","type":"Item","parent":"PggyOleiWdMrgtwk","sorting":"a","sort":300000,"color":"#4400ff","flags":{}}
+{"name":"Joueurs","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"K5mIdDIY0YXx0P0P"}
+{"name":"Stigmates","type":"Item","parent":"PggyOleiWdMrgtwk","sorting":"a","sort":0,"color":"#268aab","flags":{},"_id":"KWO5mWefq65yyX55"}
+{"name":"CSS","type":"JournalEntry","parent":"Yxbejk2ukhcH6RwS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"KbLgRvIkS35wwS1U"}
+{"_id":"LIJcZRVdpEtEREHi","name":"ARMES","type":"Item","parent":"Ah7ErDmok1SBTHg8","sorting":"a","sort":100000,"color":"#d28c14","flags":{}}
+{"name":"PNJ","type":"Item","parent":"CPUmldcbQSa0hZub","sorting":"a","sort":0,"color":"#500c4a","flags":{},"_id":"LMB9tS7rKfheWnXM"}
+{"name":"_PROPS","type":"Item","parent":"CZXfLHLtlb6DcTkY","sorting":"m","sort":0,"color":null,"flags":{},"_id":"PggyOleiWdMrgtwk"}
+{"name":"images","type":"JournalEntry","parent":"Yxbejk2ukhcH6RwS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"S2wtzsoHOeOGCFVt"}
+{"_id":"UiBFv6SY6JJjJSmP","name":"Persos","type":"Item","parent":"PggyOleiWdMrgtwk","sorting":"a","sort":400000,"color":"#348d5b","flags":{}}
+{"name":"Intrigues","type":"Item","parent":"PggyOleiWdMrgtwk","sorting":"a","sort":0,"color":"#7c3652","flags":{},"_id":"XVZL145jgF0zGDdv"}
+{"name":"Distance","type":"Item","parent":"LIJcZRVdpEtEREHi","sorting":"a","sort":0,"color":"#061b84","flags":{},"_id":"YK9QAKsh8BZygg1q"}
+{"_id":"YcQwJoGEBSGH9jfS","name":"Armures","type":"Item","parent":"Ah7ErDmok1SBTHg8","sorting":"a","sort":200000,"color":"#d28c14","flags":{}}
+{"name":"TUTORIEL","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#f00000","flags":{},"_id":"Yxbejk2ukhcH6RwS"}
+{"_id":"gWYOwySidk6dDlK7","name":"Armes","type":"Item","parent":"PggyOleiWdMrgtwk","sorting":"a","sort":100000,"color":"#d28c14","flags":{}}
+{"name":"Competences","type":"Item","parent":"CPUmldcbQSa0hZub","sorting":"a","sort":0,"color":"#4400ff","flags":{},"_id":"jKFp4WLyKQD3fvKr"}
+{"_id":"lwcOM9MohgQZ9JRK","name":"Template PAS TOUCHE","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#ff0000","flags":{}}
+{"name":"Stigmate/savoir","type":"Item","parent":"CPUmldcbQSa0hZub","sorting":"a","sort":0,"color":"#268aab","flags":{},"_id":"n2XeLnvIHaD28FSO"}
+{"name":"PNJ","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"s3ykHT2jmW0GObkF"}
+{"name":"ARMES","type":"Item","parent":"CPUmldcbQSa0hZub","sorting":"a","sort":0,"color":"#d28c14","flags":{},"_id":"tagBakzaPtXIvyyJ"}
+{"name":"Savoirs","type":"Item","parent":"PggyOleiWdMrgtwk","sorting":"a","sort":0,"color":"#268aab","flags":{},"_id":"vGLKpn9SwxnidnZf"}
+{"_id":"xGT2NtlK1iITjU8N","name":"Intrigues","type":"Item","parent":"CPUmldcbQSa0hZub","sorting":"a","sort":0,"color":"#7c3652","flags":{}}
+{"_id":"yCqSr4JPJtXxH5J2","name":"_GROUPS","type":"Item","parent":"CZXfLHLtlb6DcTkY","sorting":"m","sort":200000,"color":null,"flags":{}}
