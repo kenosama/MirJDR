@@ -16,7 +16,7 @@
   "dependencies": [],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/kenosama/MirJDR/main/world.json",
-  "download": "https://codeload.github.com/kenosama/MirJDR/zip/main/",
+  "download": "https://github.com/kenosama/MirJDR/archive/refs/tags/foundryvtt.zip",
   "protected": false,
   "background": "worlds/mir/cache%20cache.png",
   "coreVersion": "0.9.238",
