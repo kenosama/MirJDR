@@ -16,7 +16,7 @@
   "dependencies": [],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/kenosama/MirJDR/main/world.json",
-  "download": "https://codeload.github.com/kenosama/MirJDR/main/",
+  "download": "https://codeload.github.com/kenosama/MirJDR/zip/main/",
   "protected": false,
   "background": "worlds/mir/cache%20cache.png",
   "coreVersion": "0.9.238",
